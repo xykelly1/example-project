@@ -1,6 +1,7 @@
-va
+javascripcript
+java
 kotlin
 scala
 ruby
 javascript
-c++
+rust
